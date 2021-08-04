@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29d89caf.chunk.css",
+    "main.js": "/static/js/main.b71d0582.chunk.js",
+    "main.js.map": "/static/js/main.b71d0582.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c16c3f14.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c16c3f14.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.476304f5.chunk.js": "/static/js/2.476304f5.chunk.js",
+    "static/js/2.476304f5.chunk.js.map": "/static/js/2.476304f5.chunk.js.map",
+    "static/js/3.c74be32e.chunk.js": "/static/js/3.c74be32e.chunk.js",
+    "static/js/3.c74be32e.chunk.js.map": "/static/js/3.c74be32e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.29d89caf.chunk.css.map": "/static/css/main.29d89caf.chunk.css.map",
+    "static/js/2.476304f5.chunk.js.LICENSE.txt": "/static/js/2.476304f5.chunk.js.LICENSE.txt",
+    "static/media/Pay_QR.f10566da.png": "/static/media/Pay_QR.f10566da.png",
+    "static/media/cow.f14e12da.jpg": "/static/media/cow.f14e12da.jpg",
+    "static/media/main.css": "/static/media/thriloka.f2126bc1.jpg",
+    "static/media/ganga.68de011d.jpg": "/static/media/ganga.68de011d.jpg",
+    "static/media/sarvashraya.be477791.jpg": "/static/media/sarvashraya.be477791.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c16c3f14.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.476304f5.chunk.js",
+    "static/css/main.29d89caf.chunk.css",
+    "static/js/main.b71d0582.chunk.js"
+  ]
+}
